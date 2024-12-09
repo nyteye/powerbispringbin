@@ -59,3 +59,4 @@ o Single marital status increases attrition likelihood by 2.18X.
 • Purpose: Identifies the key drivers of employee turnover, helping HR teams focus on
 these factors to reduce attrition.
 
+https://github.com/nyteye/powerbispringbin/blob/main/Screenshot%202024-11-25%20075935.png
